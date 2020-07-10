@@ -2,3 +2,4 @@ moc/com/spring/modavaca/domains/DigitalProduct.class
 moc/com/spring/modavaca/domains/DigitalService.class
 moc/com/spring/modavaca/ModavacaApplication.class
 moc/com/spring/modavaca/services/ProductService.class
+moc/com/spring/modavaca/services/DigitalProductService.class
